@@ -1,0 +1,32 @@
+{
+    "image": "./images/16.png",
+    "tokenId": 16,
+    "name": "NFT #16",
+    "description": "Generation 0",
+    "attributes": [
+        {
+            "trait_type": "gen",
+            "value": "2"
+        },
+        {
+            "trait_type": "random #",
+            "value": "46"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "Uncommon"
+        },
+        {
+            "trait_type": "lvl",
+            "value": "1"
+        },
+        {
+            "trait_type": "-",
+            "value": "1"
+        },
+        {
+            "trait_type": "title",
+            "value": "Shrek"
+        }
+    ]
+}

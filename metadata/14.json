@@ -1,0 +1,32 @@
+{
+    "image": "./images/14.png",
+    "tokenId": 14,
+    "name": "NFT #14",
+    "description": "Generation 0",
+    "attributes": [
+        {
+            "trait_type": "gen",
+            "value": "3"
+        },
+        {
+            "trait_type": "random #",
+            "value": "77"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "lvl",
+            "value": "1"
+        },
+        {
+            "trait_type": "-",
+            "value": "1"
+        },
+        {
+            "trait_type": "title",
+            "value": "Cat"
+        }
+    ]
+}

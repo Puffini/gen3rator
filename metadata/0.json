@@ -1,0 +1,32 @@
+{
+    "image": "./images/0.png",
+    "tokenId": 0,
+    "name": "NFT #00",
+    "description": "Generation 0",
+    "attributes": [
+        {
+            "trait_type": "gen",
+            "value": "5"
+        },
+        {
+            "trait_type": "random #",
+            "value": "46"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "lvl",
+            "value": "1"
+        },
+        {
+            "trait_type": "-",
+            "value": "1"
+        },
+        {
+            "trait_type": "title",
+            "value": "Santa"
+        }
+    ]
+}

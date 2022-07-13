@@ -1,0 +1,32 @@
+{
+    "image": "./images/6.png",
+    "tokenId": 6,
+    "name": "NFT #06",
+    "description": "Generation 0",
+    "attributes": [
+        {
+            "trait_type": "gen",
+            "value": "1"
+        },
+        {
+            "trait_type": "random #",
+            "value": "75"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "Uncommon"
+        },
+        {
+            "trait_type": "lvl",
+            "value": "1"
+        },
+        {
+            "trait_type": "-",
+            "value": "1"
+        },
+        {
+            "trait_type": "title",
+            "value": "Octopus"
+        }
+    ]
+}

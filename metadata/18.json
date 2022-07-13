@@ -1,0 +1,32 @@
+{
+    "image": "./images/18.png",
+    "tokenId": 18,
+    "name": "NFT #18",
+    "description": "Generation 0",
+    "attributes": [
+        {
+            "trait_type": "gen",
+            "value": "2"
+        },
+        {
+            "trait_type": "random #",
+            "value": "81"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "lvl",
+            "value": "1"
+        },
+        {
+            "trait_type": "-",
+            "value": "1"
+        },
+        {
+            "trait_type": "title",
+            "value": "Cat"
+        }
+    ]
+}
